@@ -23,52 +23,52 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.tsinghua.edu.cn/en/
+- certificate_url: https://www.tsinghua.edu.cn/en
   date_end: ""
   date_start: "Jul 2021"
-  description: " Tsinghua Global Summer School, July 2021"
+  description: "Tsinghua Global Summer School, July 2021"
   organization: Tsingua University
-  organization_url: https://www.tsinghua.edu.cn/en/
+  organization_url: https://www.tsinghua.edu.cn/en
   title: Technical Innovation Award
   url: ""
 - certificate_url: http://english.zuel.edu.cn/mainm.htm
   date_end: ""
   date_start: "Sep 2019"
-  description: Overseas Students’ Scholarship.
-  organization:  Zhongnan University of Economics and Law
+  description: "Overseas Students’ Scholarship"
+  organization: Zhongnan University of Economics and Law
   organization_url: http://english.zuel.edu.cn/mainm.htm
   title: Overseas Students’ Scholarship
   url: ''
-- certificate_url: https://en.xmu.edu.cn/
+- certificate_url: https://en.xmu.edu.cn
   date_end: ""
   date_start: "Jul 2020"
   description: "Excellent Graduate Award, Wang Yanan Institute for Studies in Economics (WISE), Xiamen University, June 2019"
   organization: Xiamen University
-  organization_url: https://en.xmu.edu.cn/
+  organization_url: https://en.xmu.edu.cn
   title: 'Excellent Graduate Award'
   url: ""
-- certificate_url: https://en.xmu.edu.cn/
+- certificate_url: https://en.xmu.edu.cn
   date_end: ""
   date_start: "April 2019"
   description: "Golden Ball Trophy, Xiamen University Inter-Campus Competition, April 2019"
   organization: Xiamen University
-  organization_url: https://en.xmu.edu.cn/
+  organization_url: https://en.xmu.edu.cn
   title: 'Golden Ball Trophy'
   url: ""
-- certificate_url: https://en.xmu.edu.cn/
+- certificate_url: https://en.xmu.edu.cn
   date_end: ""
   date_start: "Oct 2017"
   description: "Golden Boot Trophy, Xiamen University Mini World Cup, October 2017"
   organization: Xiamen University
-  organization_url: https://en.xmu.edu.cn/
+  organization_url: https://en.xmu.edu.cn
   title: 'Golden Boot Trophy'
   url: ""
- - certificate_url: https://en.xmu.edu.cn/
+ - certificate_url: https://en.xmu.edu.cn
   date_end: ""
   date_start: "Sep 2017"
   description: "Chinese Government Scholarship for Postgraduate Studies, September 2017"
   organization: Chinese Government
-  organization_url: https://en.xmu.edu.cn/
+  organization_url: https://en.xmu.edu.cn
   title: 'Chinese Government Scholarship'
   url: ""
  - certificate_url: https://ucc.edu.gh
