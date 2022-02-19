@@ -1,8 +1,7 @@
 ---
 title: Example Talk
 
-event: Africa Research Center Multidisciplinary Conference January
-2022
+event: Africa Research Center Multidisciplinary Conference January 2022
 event_url: https://example.org
 
 location: Xiamen University
@@ -13,8 +12,7 @@ address:
   postcode: '94305'
   country: China
 
-summary: Africa Research Center Multidisciplinary Conference, Xiamen University, January
-2022."
+summary: Africa Research Center Multidisciplinary Conference, Xiamen University, January 2022."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
