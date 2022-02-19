@@ -63,22 +63,7 @@ item:
   organization_url: https://en.xmu.edu.cn
   title: 'Golden Boot Trophy'
   url: ""
- - certificate_url: https://en.xmu.edu.cn
-  date_end: ""
-  date_start: "Sep 2017"
-  description: "Chinese Government Scholarship for Postgraduate Studies, September 2017"
-  organization: Chinese Government
-  organization_url: https://en.xmu.edu.cn
-  title: 'Chinese Government Scholarship'
-  url: ""
- - certificate_url: https://ucc.edu.gh
-  date_end: "2015"
-  date_start: "Mar 2014"
-  description: "Excellent Student Award, Department of Arts and Social Sciences Education, University of Cape Coast, March 2014 and 2015"
-  organization: University of Cape Coast
-  organization_url: https://ucc.edu.gh
-  title: 'Excellent Student Award'
-  url: ""
+ 
 design:
   columns: '2' 
 ---
