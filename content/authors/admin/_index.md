@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Phhilip Akrofi Atitianti
+title: Philip Akrofi Atitianti
 
 # Is this the primary user of the site?
 superuser: true
