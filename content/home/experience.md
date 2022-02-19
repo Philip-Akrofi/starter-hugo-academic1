@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: Xiamen University, China
-    company_url: 'https://en.xmu.edu.cn/'
+    company_url: 'https://en.xmu.edu.cn'
     company_logo: org-gc
     location: China
-    date_start: '2019-02-01',
-    date_end: '2019-06-01'
+    date_start: 'Fab 2019',
+    date_end: 'Jun 2019'
     description: |2-
         Responsibilities include:
         
@@ -40,9 +40,9 @@ experience:
     company: National Service Person, Ghana
     company_url: ''
     company_logo: org-x
-    location: Ghaana
-    date_start: '2016-11-01'
-    date_end: '2017-08-31'
+    location: Ghana
+    date_start: 'Oct 2016'
+    date_end: 'Aug 2017'
     description: Responsible for teaching Economics to high school grade 1 and 2 students; in charge of all secretarial and IT related works..
 
 design:
