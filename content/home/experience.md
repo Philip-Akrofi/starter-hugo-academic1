@@ -27,8 +27,8 @@ experience:
     company_url: 'https://en.xmu.edu.cn'
     company_logo: org-gc
     location: China
-    date_start: 'Feb 2019'
-    date_end: 'Jun 2019'
+    date_start: '2019-02-01'
+    date_end: '2019-07-30'
     description: |2-
         Responsibilities include:
         
@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Ghana
-    date_start: 'Oct 2016'
-    date_end: 'Aug 2017'
+    date_start: '2016-10-01'
+    date_end: '2017-08-30'
     description: Responsible for teaching Economics to high school grade 1 and 2 students; in charge of all secretarial and IT related works..
 
 design:
