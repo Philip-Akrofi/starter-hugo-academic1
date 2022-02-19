@@ -45,7 +45,7 @@ item:
   description: "Excellent Graduate Award, Wang Yanan Institute for Studies in Economics (WISE), Xiamen University"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn
-  title: 'Excellent Graduate Award'
+  title: Excellent Graduate Award
   url: ""
 - certificate_url: https://en.xmu.edu.cn
   date_end: ""
@@ -53,7 +53,7 @@ item:
   description: "Golden Ball Trophy, Xiamen University Inter-Campus Competition, April 2019"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn
-  title: 'Golden Ball Trophy'
+  title: Golden Ball Trophy
   url: ""
 - certificate_url: https://en.xmu.edu.cn
   date_end: ""
@@ -61,7 +61,7 @@ item:
   description: "Golden Boot Trophy, Xiamen University Mini World Cup, October 2017"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn
-  title: 'Golden Boot Trophy'
+  title: Golden Boot Trophy
   url: ""
  - certificate_url: https://en.xmu.edu.cn
   date_end: ""
@@ -69,7 +69,7 @@ item:
   description: "Chinese Government Scholarship for Postgraduate Studies, September 2017"
   organization: Chinese Government
   organization_url: https://en.xmu.edu.cn
-  title: 'Chinese Government Scholarship'
+  title: Chinese Government Scholarship
   url: ""
  - certificate_url: https://ucc.edu.gh
   date_end: "2015"
