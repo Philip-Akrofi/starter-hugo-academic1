@@ -20,9 +20,9 @@ author_notes:
   - Economics
   - African Business
 publication: In *Journal of African Business (2021)*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: This paper assesses the impact of Chinese foreign direct investment
+  (FDI) on welfare in African economies using recently available data on Chinese
+  FDI in 52 African countries between 2003 and 2018
 url_dataset: ""
 url_project: ""
 publication_short: In *JAB*
