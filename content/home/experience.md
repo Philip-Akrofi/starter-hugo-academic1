@@ -37,7 +37,7 @@ experience:
         * Superviced Master students
         
   - title: Economics Teacher
-    company: (National Service Person, Ghana
+    company: National Service Person, Ghana
     company_url: ''
     company_logo: org-x
     location: California
