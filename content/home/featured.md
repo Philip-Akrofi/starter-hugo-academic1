@@ -17,5 +17,5 @@ content:
 design:
   view: 3
   background:
-    image: screen-shot-2022-02-19-at-4.51.30-pm.png
+    image: ""
 ---
