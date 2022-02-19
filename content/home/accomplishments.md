@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.tsinghua.edu.cn/en
   date_end: ""
-  date_start: "Jul 2021"
+  date_start: "2021-07-01"
   description: "Tsinghua Global Summer School, July 2021"
   organization: Tsingua University
   organization_url: https://www.tsinghua.edu.cn/en
