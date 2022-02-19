@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: http://english.zuel.edu.cn/mainm.htm
   date_end: ""
-  date_start: "Sep 2019"
+  date_start: "2019-09-01"
   description: "Overseas Students’ Scholarship"
   organization: Zhongnan University of Economics and Law
   organization_url: http://english.zuel.edu.cn/mainm.htm
@@ -41,7 +41,7 @@ item:
   url: ''
 - certificate_url: https://en.xmu.edu.cn
   date_end: ""
-  date_start: "Jul 2020"
+  date_start: "2020-07-01"
   description: "Excellent Graduate Award, Wang Yanan Institute for Studies in Economics (WISE), Xiamen University"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn
@@ -49,7 +49,7 @@ item:
   url: ""
 - certificate_url: https://en.xmu.edu.cn
   date_end: ""
-  date_start: "April 2019"
+  date_start: "2019-04-01"
   description: "Golden Ball Trophy, Xiamen University Inter-Campus Competition, April 2019"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn
@@ -57,7 +57,7 @@ item:
   url: ""
 - certificate_url: https://en.xmu.edu.cn
   date_end: ""
-  date_start: "Oct 2017"
+  date_start: "2017-10-01"
   description: "Golden Boot Trophy, Xiamen University Mini World Cup, October 2017"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn
@@ -65,15 +65,15 @@ item:
   url: ""
 - certificate_url: https://en.xmu.edu.cn
   date_end: ""
-  date_start: "Sep 2017"
+  date_start: "2017-09-01"
   description: "Chinese Government Scholarship for Postgraduate Studies, September 2017"
   organization: Chinese Government
   organization_url: https://en.xmu.edu.cn
   title: Chinese Government Scholarship
   url: ""
 - certificate_url: https://ucc.edu.gh
-  date_end: "2015"
-  date_start: "Mar 2014"
+  date_end: ""
+  date_start: "2014-03-01"
   description: "Excellent Student Award, Dept of Arts and Social Sciences Education, University of Cape Coast"
   organization: University of Cape Coast
   organization_url: https://ucc.edu.gh
