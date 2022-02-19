@@ -27,7 +27,7 @@ experience:
     company_url: 'https://en.xmu.edu.cn'
     company_logo: org-gc
     location: China
-    date_start: 'Fab 2019',
+    date_start: 'Fab 2019'
     date_end: 'Jun 2019'
     description: |2-
         Responsibilities include:
@@ -35,7 +35,6 @@ experience:
         * Taught Experimental Economics to Master’s students
         * Coordinated laboratory experiments
         * Superviced Master students
-        
   - title: Economics Teacher
     company: National Service Person, Ghana
     company_url: ''
