@@ -9,13 +9,13 @@ abstract: This paper assesses the impact of Chinese foreign direct investment
   when variables that affect welfare are controlled for. The findings suggest
   that China’s claim of a “win-win” aim for its rising investment in African
   countries may hold
-slides: papera
+slides: paper
 url_pdf: ""
 publication_types:
   - "1"
 authors:
   - admin
-  - Robert Ford
+  - Qian Dai
 author_notes:
   - Economics
   - African Business
