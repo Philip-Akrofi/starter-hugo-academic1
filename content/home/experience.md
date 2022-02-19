@@ -27,7 +27,7 @@ experience:
     company_url: 'https://en.xmu.edu.cn'
     company_logo: org-gc
     location: China
-    date_start: 'Fab 2019'
+    date_start: 'Feb 2019'
     date_end: 'Jun 2019'
     description: |2-
         Responsibilities include:
