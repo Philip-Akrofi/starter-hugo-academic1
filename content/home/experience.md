@@ -40,7 +40,7 @@ experience:
     company: National Service Person, Ghana
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Ghaana
     date_start: '2016-11-01'
     date_end: '2017-08-31'
     description: Responsible for teaching Economics to high school grade 1 and 2 students; in charge of all secretarial and IT related works..
