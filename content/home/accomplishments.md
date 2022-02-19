@@ -42,8 +42,7 @@ item:
 - certificate_url: https://en.xmu.edu.cn/
   date_end: ""
   date_start: "Jul 2020"
-  description: "Excellent Graduate Award, Wang Yanan Institute for Studies in Economics (WISE),
-Xiamen University, June 2019"
+  description: "Excellent Graduate Award, Wang Yanan Institute for Studies in Economics (WISE), Xiamen University, June 2019"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn/
   title: 'Excellent Graduate Award'
@@ -75,8 +74,7 @@ Xiamen University, June 2019"
  - certificate_url: https://ucc.edu.gh
   date_end: "2015"
   date_start: "Mar 2014"
-  description: "Excellent Student Award, Department of Arts and Social Sciences Education,
-University of Cape Coast, March 2014 and 2015"
+  description: "Excellent Student Award, Department of Arts and Social Sciences Education, University of Cape Coast, March 2014 and 2015"
   organization: University of Cape Coast
   organization_url: https://ucc.edu.gh
   title: 'Excellent Student Award'
