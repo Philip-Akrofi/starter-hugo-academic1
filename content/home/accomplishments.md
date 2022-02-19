@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.tsinghua.edu.cn/en/
   date_end: ""
-  date_start: "2021-06-01"
+  date_start: "Jul 2021"
   description: " Tsinghua Global Summer School, July 2021"
   organization: Tsingua University
   organization_url: https://www.tsinghua.edu.cn/en/
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: http://english.zuel.edu.cn/mainm.htm
   date_end: ""
-  date_start: "2019-09-01"
+  date_start: "Sep 2019"
   description: Overseas Students’ Scholarship.
   organization:  Zhongnan University of Economics and Law
   organization_url: http://english.zuel.edu.cn/mainm.htm
@@ -41,7 +41,7 @@ item:
   url: ''
 - certificate_url: https://en.xmu.edu.cn/
   date_end: ""
-  date_start: "2020-07-01"
+  date_start: "Jul 2020"
   description: "Excellent Graduate Award, Wang Yanan Institute for Studies in Economics (WISE),
 Xiamen University, June 2019"
   organization: Xiamen University
@@ -50,7 +50,7 @@ Xiamen University, June 2019"
   url: ""
 - certificate_url: https://en.xmu.edu.cn/
   date_end: ""
-  date_start: "04, 2019"
+  date_start: "April 2019"
   description: "Golden Ball Trophy, Xiamen University Inter-Campus Competition, April 2019"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn/
@@ -58,7 +58,7 @@ Xiamen University, June 2019"
   url: ""
 - certificate_url: https://en.xmu.edu.cn/
   date_end: ""
-  date_start: "10, 2017"
+  date_start: "Oct 2017"
   description: "Golden Boot Trophy, Xiamen University Mini World Cup, October 2017"
   organization: Xiamen University
   organization_url: https://en.xmu.edu.cn/
@@ -66,7 +66,7 @@ Xiamen University, June 2019"
   url: ""
  - certificate_url: https://en.xmu.edu.cn/
   date_end: ""
-  date_start: "09, 2017"
+  date_start: "Sep 2017"
   description: "Chinese Government Scholarship for Postgraduate Studies, September 2017"
   organization: Chinese Government
   organization_url: https://en.xmu.edu.cn/
@@ -74,7 +74,7 @@ Xiamen University, June 2019"
   url: ""
  - certificate_url: https://ucc.edu.gh
   date_end: "2015"
-  date_start: "03, 2014"
+  date_start: "Mar 2014"
   description: "Excellent Student Award, Department of Arts and Social Sciences Education,
 University of Cape Coast, March 2014 and 2015"
   organization: University of Cape Coast
