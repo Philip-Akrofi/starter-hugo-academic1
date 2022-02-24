@@ -5,6 +5,9 @@ publication_types:
 authors:
   - admin
   - James Chukwubudom Chikelu
+doi: 10.1007/s43546-021-00071-8
+publication: "*SN Business & Economics*"
+publication_short: "*SNBE*"
 abstract: We assess the impact of corruption on firm growth using the World Bank
   Enterprise Survey (WBES) data on Nigerian firms for the periods 2006 and 2008.
   We measure corruption as firms’ informal payments to get things done faster
