@@ -9,7 +9,7 @@ abstract: This paper assesses the impact of Chinese foreign direct investment
   when variables that affect welfare are controlled for. The findings suggest
   that China’s claim of a “win-win” aim for its rising investment in African
   countries may hold
-slides: paper
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -18,9 +18,7 @@ authors:
   - Qian Dai
 author_notes: []
 publication: "*Journal of African Business*"
-summary: This paper assesses the impact of Chinese foreign direct investment
-  (FDI) on welfare in African economies using recently available data on Chinese
-  FDI in 52 African countries between 2003 and 2018
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: "*JAB*"
@@ -30,8 +28,7 @@ title: Does Chinese Foreign Direct Investment Improve the Welfare of Africans?
 doi: 10.1080/15228916.2021.1969192
 featured: true
 tags: []
-projects:
-  - papers
+projects: []
 image:
   caption: ""
   focal_point: ""
