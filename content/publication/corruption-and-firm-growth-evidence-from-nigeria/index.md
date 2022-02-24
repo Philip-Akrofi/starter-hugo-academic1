@@ -1,8 +1,7 @@
 ---
 title: "Corruption and firm growth: evidence from Nigeria"
 publication_types:
-  - "0"
-  - "1"
+  - "2"
 authors:
   - admin
   - James Chukwubudom Chikelu
@@ -30,5 +29,5 @@ summary: We assess the impact of corruption on firm growth using the World Bank
   Enterprise Survey (WBES) data on Nigerian firms for the periods 2006 and 2008.
   We measure corruption as firms’ informal payments to get things done faster
   and bypass due process.
-date: 2022-02-19T08:46:05.386Z
+date: 2021-04-26T08:46:05.386Z
 ---
