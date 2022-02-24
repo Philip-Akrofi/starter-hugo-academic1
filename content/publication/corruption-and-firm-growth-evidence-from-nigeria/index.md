@@ -25,9 +25,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-summary: We assess the impact of corruption on firm growth using the World Bank
-  Enterprise Survey (WBES) data on Nigerian firms for the periods 2006 and 2008.
-  We measure corruption as firms’ informal payments to get things done faster
-  and bypass due process.
+summary: ""
 date: 2021-04-26T08:46:05.386Z
 ---
