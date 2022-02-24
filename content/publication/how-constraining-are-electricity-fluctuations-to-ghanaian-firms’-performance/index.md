@@ -3,9 +3,10 @@ title: How constraining are electricity fluctuations to Ghanaian firms’ perfor
 publication_types:
   - "2"
 authors:
+  - Edwin Teye Sosi
   - admin
 doi: 10.1007/s43546-021-00157-3
-publication: SN Business and Economics
+publication: "*SN Business & Economics*"
 publication_short: SNBE
 abstract: >-
   In this study, we examine the impact of electricity power disruptions on the
