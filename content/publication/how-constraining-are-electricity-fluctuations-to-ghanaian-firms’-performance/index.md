@@ -7,7 +7,7 @@ authors:
   - admin
 doi: 10.1007/s43546-021-00157-3
 publication: "*SN Business & Economics*"
-publication_short: SNBE
+publication_short: "*SNBE*"
 abstract: >-
   In this study, we examine the impact of electricity power disruptions on the
   performance
@@ -44,7 +44,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-10-22T15:00:55.052Z
