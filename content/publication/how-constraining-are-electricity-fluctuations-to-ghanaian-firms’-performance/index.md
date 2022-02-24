@@ -2,7 +2,11 @@
 title: How constraining are electricity fluctuations to Ghanaian firms’ performance?
 publication_types:
   - "2"
-authors: []
+authors:
+  - admin
+doi: 10.1007/s43546-021-00157-3
+publication: SN Business and Economics
+publication_short: SNBE
 abstract: >-
   In this study, we examine the impact of electricity power disruptions on the
   performance
