@@ -1,9 +1,9 @@
 ---
 title: Philip Akrofi Atitianti
 role: PhD Candidate
-bio: My keen interest is in Foreign aid, international trade, and foreign direct
+bio: "Research interest: Foreign aid, international trade, and foreign direct
   investment; focusing on the consequences and determinants of these financial
-  flows from China to Africa.
+  flows from China to Africa."
 interests:
   - International Economics
   - Development Economics
