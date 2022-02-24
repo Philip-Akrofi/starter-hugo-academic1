@@ -1,5 +1,5 @@
 ---
-title: How constraining are electricity fluctuations to Ghanaian firms’ performance?
+title: How Constraining Are Electricity Fluctuations to Ghanaian Firms’ Performance?
 publication_types:
   - "2"
 authors:
