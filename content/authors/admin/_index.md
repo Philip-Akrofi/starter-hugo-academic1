@@ -11,19 +11,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: p.akrofi@zuel.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/philip-akrofi-atitianti/
 organizations:
   - name: School of Economics, Zhongnan University of Economics and Law
     url: http://english.zuel.edu.cn/mainm.htm
@@ -47,4 +41,4 @@ highlight_name: true
 ---
 I am Philip Akrofi Atitianti, a Ph.D. Candidate in the School of Economics, Zhongnan University of Economics and Law, China. My research primarily focuses on foreign aid, international trade, and foreign direct investment, emphasizing the consequences and determinants of these financial flows from China to Africa. I also research the implications on governance quality and poverty in African economies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Atitianti_tab.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Atitianti_tab.pdf" "newtab" >}}CV{{< /staticref >}}
