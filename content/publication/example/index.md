@@ -12,7 +12,7 @@ abstract: This paper assesses the impact of Chinese foreign direct investment
 slides: paper
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
   - Qian Dai
