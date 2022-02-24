@@ -16,20 +16,18 @@ publication_types:
 authors:
   - admin
   - Qian Dai
-author_notes:
-  - Economics
-  - African Business
-publication: In *Journal of African Business (2021)*
+author_notes: []
+publication: "*Journal of African Business*"
 summary: This paper assesses the impact of Chinese foreign direct investment
   (FDI) on welfare in African economies using recently available data on Chinese
   FDI in 52 African countries between 2003 and 2018
 url_dataset: ""
 url_project: ""
-publication_short: In *JAB*
+publication_short: "*JAB*"
 url_source: ""
 url_video: ""
 title: Does Chinese Foreign Direct Investment Improve the Welfare of Africans?
-doi: ""
+doi: 10.1080/15228916.2021.1969192
 featured: true
 tags: []
 projects:
@@ -38,7 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: screen-shot-2022-02-19-at-4.51.30-pm.png
+  filename: ""
 date: 2022-02-19T08:42:30.543Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
