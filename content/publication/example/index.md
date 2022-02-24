@@ -45,24 +45,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-@article{doi:10.1080/15228916.2021.1969192,
-author = {Philip Akrofi Atitianti and Qian Dai},
-title = {Does Chinese Foreign Direct Investment Improve the Welfare of Africans?},
-journal = {Journal of African Business},
-volume = {0},
-number = {0},
-pages = {1-20},
-year  = {2021},
-publisher = {Routledge},
-doi = {10.1080/15228916.2021.1969192},
-
-URL = { 
-        https://doi.org/10.1080/15228916.2021.1969192
-
-},
-eprint = { 
-        https://doi.org/10.1080/15228916.2021.1969192
-
-}
-
-}
+https://doi.org/10.1080/15228916.2021.1969192
