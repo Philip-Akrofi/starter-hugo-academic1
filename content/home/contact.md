@@ -31,13 +31,13 @@ content:
     street: 182# Nanhu Avenue, East Lake High-tech Development Zone
     city: Wuhan
     region: Hubei
-    postcode: '470020'
+    postcode: '430073'
     country: China
     country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Building 10, Internatinoal Education School
+    latitude: '30.475224'
+    longitude: '114.393532'
+  directions: Building 10, International Education School
   contact_links:
     - icon: linkedin
       icon_pack: person
