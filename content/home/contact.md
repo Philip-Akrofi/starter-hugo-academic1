@@ -40,7 +40,7 @@ content:
   directions: Building 10, International Education School
   contact_links:
     - icon: linkedin
-      icon_pack: person
+      icon_pack: fab
       name: Linkedln
       link: 'linkedin.com/in/philip-akrofi-atitianti'
 
