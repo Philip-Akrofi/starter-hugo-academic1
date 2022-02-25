@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: p.akrofi@outlook.com
+  email: p.akrofi@stu.zuel.edu.cn
   phone:  +86 18650432427
   address:
     street: Zhongnan University of Economics and Law
@@ -38,18 +38,14 @@ content:
     latitude: '37.4275'
     longitude: '-122.1697'
   directions: Zhongnan University of Economics and Law campus
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Friday 09:00 to 13:00'
-  appointment_url: ''
   contact_links:
-    - icon: twitter
+    - icon: Email
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: Email
+      link: 'mailto:p.akrofi@stu.zuel.edu.cn'
     - icon: linkedin
       icon_pack: person
-      name: Connect
+      name: Linkedln
       link: 'linkedin.com/in/philip-akrofi-atitianti'
 
 design:
