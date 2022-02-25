@@ -28,7 +28,7 @@ content:
   email: p.akrofi@stu.zuel.edu.cn
   phone:  +86 18650432427
   address:
-    street: Zhongnan University of Economics and Law
+    street: 182# Nanhu Avenue, East Lake High-tech Development Zone
     city: Wuhan
     region: Hubei
     postcode: '470020'
@@ -37,12 +37,8 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Zhongnan University of Economics and Law campus
+  directions: Building 10, Internatinoal Education School
   contact_links:
-    - icon: Email
-      icon_pack: fab
-      name: Email
-      link: 'mailto:p.akrofi@stu.zuel.edu.cn'
     - icon: linkedin
       icon_pack: person
       name: Linkedln
