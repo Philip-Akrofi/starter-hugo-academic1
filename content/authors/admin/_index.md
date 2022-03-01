@@ -1,6 +1,6 @@
 ---
 title: Philip Akrofi Atitianti
-role: PhD Candidate
+role: PhD Candidate in World Economy
 bio: "Research interest: Foreign aid, international trade, and foreign direct
   investment; focusing on the consequences and determinants of these financial
   flows from China to Africa."
