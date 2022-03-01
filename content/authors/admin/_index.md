@@ -19,7 +19,7 @@ social:
     link: https://www.linkedin.com/in/philip-akrofi-atitianti/
 organizations:
   - name: School of Economics, Zhongnan University of Economics and Law
-    url: http://english.zuel.edu.cn/mainm.htm
+    url: http://english.zuel.edu.cn/
 education:
   courses:
     - course: PhD in World Economy
