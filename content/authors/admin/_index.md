@@ -24,13 +24,13 @@ education:
   courses:
     - course: PhD in World Economy
       institution: Zhongnan University of Economics and Law, China
-      year: 2019 - 2022
+      year: July 2022 (expected)
     - course: M.A in Management Economics
       institution: Xiamen University, China
-      year: 09, 2017 - 06, 2019
+      year: 2017 - 2019
     - course: B.Ed in Economics and Geography
       institution: University of Cape Coast, Ghana
-      year: 08, 2012 - 05, 2016
+      year: 2012 - 2016
 email: p.akrofi@stu.zuel.edu.cn
 superuser: true
 highlight_name: true
