@@ -6,7 +6,7 @@ bio: "Research interest: International Economics, Development Economics,
 interests:
   - International Economics
   - Development Economics
-  - Education
+  - Education Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,7 +26,7 @@ education:
       institution: Zhongnan University of Economics and Law, China
       year: 2019 - 2022
     - course: Inovation for Sustainable Development -Certificate
-      institution: Tsinghua University, China
+      institution: Tsinghua Global Summer School, Tsinghua University, Beijing, China
       year: 06, 2021 - 07, 2021
     - course: M.A in Management Economics
       institution: Xiamen University, China
