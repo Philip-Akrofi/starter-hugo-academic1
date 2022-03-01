@@ -1,9 +1,8 @@
 ---
 title: Philip Akrofi Atitianti
 role: PhD Candidate in World Economy
-bio: "Research interest: Foreign aid, international trade, and foreign direct
-  investment; focusing on the consequences and determinants of these financial
-  flows from China to Africa."
+bio: "Research interest: International Economics, Development Economics,
+  Education  Economics"
 interests:
   - International Economics
   - Development Economics
@@ -41,4 +40,4 @@ highlight_name: true
 ---
 I am Philip Akrofi Atitianti, a Ph.D. Candidate in the School of Economics, Zhongnan University of Economics and Law, China. My research primarily focuses on foreign aid, international trade, and foreign direct investment, emphasizing the consequences and determinants of these financial flows from China to Africa. I also research the implications on governance quality and poverty in African economies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Atitianti_tab.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Akrofi Atitianti.pdf" "newtab" >}}CV{{< /staticref >}}
