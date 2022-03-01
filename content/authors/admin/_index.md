@@ -25,14 +25,11 @@ education:
     - course: PhD in World Economy
       institution: Zhongnan University of Economics and Law, China
       year: 2019 - 2022
-    - course: Inovation for Sustainable Development -Certificate
-      institution: Tsinghua Global Summer School, Tsinghua University, Beijing, China
-      year: 06, 2021 - 07, 2021
     - course: M.A in Management Economics
       institution: Xiamen University, China
       year: 09, 2017 - 06, 2019
     - course: B.Ed in Economics and Geography
-      institution: University of Cape Coast Ghana
+      institution: University of Cape Coast, Ghana
       year: 08, 2012 - 05, 2016
 email: p.akrofi@stu.zuel.edu.cn
 superuser: true
