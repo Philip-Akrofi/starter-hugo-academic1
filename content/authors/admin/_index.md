@@ -22,13 +22,13 @@ organizations:
     url: http://english.zuel.edu.cn/
 education:
   courses:
-    - course: PhD in Economics
+    - course: Ph.D. in Economics
       institution: Zhongnan University of Economics and Law, China
       year: July 2022 (expected)
-    - course: M.A in Management Economics
+    - course: M.A. in Management Economics
       institution: Xiamen University, China
       year: 2017 - 2019
-    - course: B.Ed in Economics and Geography
+    - course: B.Ed. in Economics and Geography
       institution: University of Cape Coast, Ghana
       year: 2012 - 2016
 email: p.akrofi@stu.zuel.edu.cn
