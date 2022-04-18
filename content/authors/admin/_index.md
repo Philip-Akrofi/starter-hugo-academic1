@@ -1,12 +1,12 @@
 ---
 title: Philip Akrofi Atitianti
-role: PhD Candidate in World Economy
-bio: "Research interest: International Economics, Development Economics,
-  Education  Economics"
+role: PhD Candidate in Economics
+bio: "Research interest: International Economics, Development Economics, Applied
+  Microeconomics"
 interests:
   - International Economics
   - Development Economics
-  - Education Economics
+  - Applied Microeconomics
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +22,7 @@ organizations:
     url: http://english.zuel.edu.cn/
 education:
   courses:
-    - course: PhD in World Economy
+    - course: PhD in Economics
       institution: Zhongnan University of Economics and Law, China
       year: July 2022 (expected)
     - course: M.A in Management Economics
@@ -35,6 +35,6 @@ email: p.akrofi@stu.zuel.edu.cn
 superuser: true
 highlight_name: true
 ---
-I am Philip Akrofi Atitianti, a Ph.D. Candidate in the School of Economics, Zhongnan University of Economics and Law, China. My research primarily focuses on foreign aid, international trade, and foreign direct investment, emphasizing the consequences and determinants of these financial flows from China to Africa. I also research the implications on governance quality and poverty in African economies.
+I am Philip Akrofi Atitianti, a Ph.D. Candidate in the School of Economics, Zhongnan University of Economics and Law, China. My research primarily focuses on International Economics, Development Economics, and Applied Microeconomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Atitianti_latest.pdf" "newtab" >}}CV{{< /staticref >}}
