@@ -24,7 +24,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: Zhongnan University of Economics and Law, China
-      year: July 2022 (expected)
+      year: July 2022
     - course: M.A. in Management Economics
       institution: Xiamen University, China
       year: 2017 - 2019
