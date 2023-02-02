@@ -35,6 +35,6 @@ email: p.akrofi@stu.zuel.edu.cn
 superuser: true
 highlight_name: true
 ---
-I am Philip Akrofi Atitianti, a recent graduate with a Ph.D. in Economics from Zhongnan University of Economics and Law, China. My research primarily focuses on International Economics, Development Economics, and Applied Microeconomics. I am currently in search of a postdoctoral research or lecturing position. 
+I am Philip Akrofi Atitianti, a recent graduate with a Ph.D. in Economics from Zhongnan University of Economics and Law, China. My research primarily focuses on International Economics, Development Economics, and Applied Microeconomics. Presently, I'm an economics teacher at Dipont Education, China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Atitianti_latest.pdf" "newtab" >}}CV{{< /staticref >}}
