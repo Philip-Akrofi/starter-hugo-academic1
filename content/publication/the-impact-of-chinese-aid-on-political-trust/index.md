@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-doi: https://doi.org/10.1002/jid.3683
+doi: 10.1002/jid.3683
 publication: "Journal of International Development "
 publication_short: JID
 abstract: This paper examines whether Chinese aid impacts citizens' trust in
