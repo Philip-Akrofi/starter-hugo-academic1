@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: " Does Chinese Foreign Direct Investment Improve the Welfare of Africans"
+widget_id: The Impact of Chinese Aid on Political Trust
 headless: true
 weight: 50
 title: Featured Publications
