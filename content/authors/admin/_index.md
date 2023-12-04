@@ -35,6 +35,6 @@ email: p.akrofi@stu.zuel.edu.cn
 superuser: true
 highlight_name: true
 ---
-I am Philip Akrofi Atitianti, a recent graduate with a Ph.D. in Economics from Zhongnan University of Economics and Law, China. My research primarily focuses on International Economics, Development Economics, and Applied Microeconomics. Presently, I'm an economics teacher at Dipont Education, China.
+I am a teacher and economic researcher with an interest in international financial flows, particularly the ramifications of foreign aid and foreign direct investment inflows into Africa. My research articles have been published in the Journal of International Development, Africa Spectrum, and the Journal of African Business. My write-ups have been featured in reputable blogs, including the London School of Economics (LSE) blog. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Philip Atitianti_latest.pdf" "newtab" >}}CV{{< /staticref >}}
+I am keenly interested in collaborating with other scholars to undertake research projects that unearth new or improved insights about international financial flows.
