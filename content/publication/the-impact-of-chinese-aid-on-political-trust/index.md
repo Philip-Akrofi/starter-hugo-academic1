@@ -23,7 +23,7 @@ abstract: This paper examines whether Chinese aid impacts citizens' trust in
 draft: false
 featured: true
 tags:
-  - "#Aid #Trust"
+  - ""
 image:
   filename: featured
   focal_point: Smart
