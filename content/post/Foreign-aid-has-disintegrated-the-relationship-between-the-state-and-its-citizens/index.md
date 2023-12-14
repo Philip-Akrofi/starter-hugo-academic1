@@ -20,6 +20,6 @@ image:
 ---
 <!--StartFragment-->
 
-At the superficial level, providing foreign aid to poor economies should be a reliable way to boost development and improve the living standards of local people. After all, foreign aid can be used to fund the construction of schools, hospitals, and roads that empower citizens economically and socially. Unfortunately, this has not been the case. Sub-Saharan Africa has received significant foreign aid over the years, yet the region remains the poorest in the [world](https://www.imf.org/-/media/Files/News/Seminars/2022/high-level-policy-dialogue-on-inequality/Presentations/English/gabriela-inchauste-inequality-in-ssa-eng.ashx).
+At the superficial level, providing foreign aid to poor economies should be a reliable way to boost development and improve the living standards of local people. After all, foreign aid can be used to fund the construction of schools, hospitals, and roads that empower citizens economically and socially. Unfortunately, this has not been the case. Sub-Saharan Africa has received significant foreign aid over the years, yet the region remains the poorest in the [world](https://blogs.lse.ac.uk/africaatlse/2023/05/15/foreign-aid-has-disintegrated-the-relationship-between-the-state-and-its-citizens/).
 
 <!--EndFragment-->
