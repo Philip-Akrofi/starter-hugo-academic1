@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: p.akrofi@stu.zuel.edu.cn
+  email: p.akrofi@live.com
   phone:  +86 18650432427
   address:
     street: 182# Nanhu Avenue, East Lake High-tech Development Zone
