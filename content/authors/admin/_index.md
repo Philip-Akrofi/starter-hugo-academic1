@@ -18,8 +18,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/philip-akrofi-atitianti/
 organizations:
-  - name: School of Economics, Zhongnan University of Economics and Law
-    url: http://english.zuel.edu.cn/
+  - name: Dipont Education
+    url: http://dipont.com/
 education:
   courses:
     - course: Ph.D. in Economics
