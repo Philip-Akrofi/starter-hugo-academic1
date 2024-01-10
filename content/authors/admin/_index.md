@@ -31,7 +31,7 @@ education:
     - course: B.Ed. in Economics and Geography
       institution: University of Cape Coast, Ghana
       year: 2012 - 2016
-email: p.akrofi@stu.zuel.edu.cn
+email: p.akrofi@live.com
 superuser: true
 highlight_name: true
 ---
