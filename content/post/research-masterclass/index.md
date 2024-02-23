@@ -9,3 +9,5 @@ image:
   preview_only: false
 ---
 I﻿ will be facilitating a research masterclass on using Mendeley and Zotero. Find the details in the attached flyer.
+
+![](weixin-image_20240222133506.jpg)
