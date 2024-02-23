@@ -26,18 +26,18 @@ content:
 
   # Contact details (edit or remove options as required)
   email: p.akrofi@live.com
-  phone:  +86 18650432427
+  phone:  
   address:
-    street: 182# Nanhu Avenue, East Lake High-tech Development Zone
-    city: Wuhan
-    region: Hubei
-    postcode: '430073'
+    street: Xifeng 4th Road
+    city: Xi'an
+    region: Shaanxi
+    postcode: '710000'
     country: China
     country_code: CN
   coordinates:
     latitude: '30.475224'
     longitude: '114.393532'
-  directions: Building 10, International Education School
+  directions: 
   contact_links:
     - icon: linkedin
       icon_pack: fab
