@@ -18,6 +18,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/philip-akrofi-atitianti/
 organizations:
+  - name: Africa-China Center for Policy and Advisory (ACCPA)
+    url: africachinacenter.org
   - name: Dipont Education
     url: http://dipont.com/
 education:
