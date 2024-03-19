@@ -10,4 +10,4 @@ image:
 ---
 ![](weixin-image_20231214200933.png)
 
-I﻿ will be facilitating a research workshop on using Zotero to manage literature and citations. Attendance is open to all. Find the details in the attached poster.
+I﻿ will be facilitating a research workshop on using Zotero to manage literature and citations. Attendance is open to all. Find the details in the attached poster. You can watch the recording here: https://youtu.be/CvtPbC0Qz2c?si=ZsMtH9vIzvlqEd22
