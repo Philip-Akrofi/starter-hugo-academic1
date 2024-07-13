@@ -3,7 +3,7 @@ title: Does Aid Improve Local Wealth? Micro-Level Evidence from Africa
 publication_types:
   - "2"
 authors:
-  - admin
+  - Philip Akrofi Atitianti
   - Samuel Kofi Asiamah
   - Benedict Arthur
   - John Archison Duku
@@ -18,7 +18,7 @@ abstract: This paper adopts a micro-level analysis to assess the effect of aid
   transmission mechanism test suggests that aid impacts wealth by promoting
   employment opportunities.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
