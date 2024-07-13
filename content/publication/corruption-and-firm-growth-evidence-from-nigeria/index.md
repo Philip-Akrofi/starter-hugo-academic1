@@ -3,7 +3,7 @@ title: "Corruption and firm growth: evidence from Nigeria"
 publication_types:
   - "2"
 authors:
-  - admin
+  - Philip Akrofi Atitianti
   - James Chukwubudom Chikelu
 doi: 10.1007/s43546-021-00071-8
 publication: "*SN Business & Economics*"
