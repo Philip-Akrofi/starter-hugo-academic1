@@ -3,7 +3,7 @@ title: The Impact of Chinese Aid on Political Trust
 publication_types:
   - "2"
 authors:
-  - admin
+  - Philip Akrofi Atitianti
 doi: 10.1002/jid.3683
 publication: "Journal of International Development "
 publication_short: JID
