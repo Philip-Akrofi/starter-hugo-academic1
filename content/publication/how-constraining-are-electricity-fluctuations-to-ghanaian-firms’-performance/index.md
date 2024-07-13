@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Edwin Teye Sosi
-  - admin
+  - Philip Akrofi Atitianti
 doi: 10.1007/s43546-021-00157-3
 publication: "*SN Business & Economics*"
 publication_short: "*SNBE*"
