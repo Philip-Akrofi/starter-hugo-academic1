@@ -23,7 +23,7 @@ abstract: One of a government’s primary responsibilities is to provide public
   Testing for the mechanism through which this effect manifests, the results
   suggest Chinese aid engenders corruption perceptions and erodes trust.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
