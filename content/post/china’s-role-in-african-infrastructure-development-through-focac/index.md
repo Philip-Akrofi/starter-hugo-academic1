@@ -100,6 +100,6 @@ Senior Research Fellow
 
 ACCPA
 
-T﻿his article was published by the Africa-China Centre for Policy and Advisory \[here]  (#https://africachinacentre.org/chinas-role-in-african-infrastructure-development-through-focac)
+T﻿his article was published by the Africa-China Centre for Policy and Advisory \[here]  (##https://africachinacentre.org/chinas-role-in-african-infrastructure-development-through-focac)
 
 <!--EndFragment-->
