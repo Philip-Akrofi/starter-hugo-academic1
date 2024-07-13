@@ -4,7 +4,7 @@ title: "Aid and Governance: Impact of Chinese Aid on the Evaluation of
 publication_types:
   - "2"
 authors:
-  - admin
+  - Philip Akrofi Atitianti
   - Samuel Kofi Asiamah
 doi: https://doi.org/10.1177/000203972311601
 publication: Africa Spectrum
