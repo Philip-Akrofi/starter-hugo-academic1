@@ -14,7 +14,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - admin
+  - Philip Akrofi Atitianti
   - Qian Dai
 author_notes: []
 publication: "*Journal of African Business*"
