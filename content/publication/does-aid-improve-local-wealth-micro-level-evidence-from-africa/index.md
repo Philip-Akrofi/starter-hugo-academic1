@@ -3,7 +3,10 @@ title: Does Aid Improve Local Wealth? Micro-Level Evidence from Africa
 publication_types:
   - "2"
 authors:
-  - Admin; Samuel Kofi Asiamah; Benedict Arthur; John Archison Duku
+  - admin
+  - Samuel Kofi Asiamah
+  - Benedict Arthur
+  - John Archison Duku
 doi: 10.1002/jid.3907
 publication: Journal of International Development
 abstract: This paper adopts a micro-level analysis to assess the effect of aid
