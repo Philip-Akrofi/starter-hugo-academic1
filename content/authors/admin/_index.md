@@ -1,6 +1,7 @@
 ---
 title: Philip Akrofi Atitianti, Ph.D.
 role: Ph.D. in Economics
+avatar_filename: headshot-web.png
 bio: "Research interest: International Economics, Development Economics, Applied
   Microeconomics"
 interests:
