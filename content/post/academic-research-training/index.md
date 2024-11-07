@@ -4,7 +4,7 @@ date: 2024-11-07T07:57:26.955Z
 draft: false
 featured: false
 image:
-  filename: weixin-image_20241106202229.jpg
+  filename: training.png
   focal_point: Smart
   preview_only: false
 ---
