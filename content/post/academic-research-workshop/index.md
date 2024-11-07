@@ -8,4 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](workshop.png)
+
 Upcoming research workshop
