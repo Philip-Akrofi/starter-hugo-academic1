@@ -13,13 +13,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ image:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="375">
@@ -638,9 +638,9 @@ image:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,13 +666,11 @@ image:
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Foreign aid operates under the premise of assisting nations in overcoming developmental hurdles, yet its long-term effectiveness remains a contentious issue. Aid may have some positives, but the associated unintended consequences make it more of an ineffective tool in bringing long-term, lasting progress and development. Despite being tagged as a developmental tool, aid has rather faired better as a tool to advance donors’ interests by fueling dependency syndrome.
-
- 
+Foreign aid operates under the premise of assisting nations in overcoming developmental hurdles, yet its long-term effectiveness remains a contentious issue. Aid may have some positives, but the associated unintended consequences make it more of an ineffective tool in bringing long-term, lasting progress and development. Despite being tagged as a developmental tool, aid has rather faired better as a tool to advance donors’ interests by fueling a dependency syndrome.
 
 **Aid Fuels a Dependency Syndrome**
 
@@ -687,8 +685,6 @@ When donors give out items such as free grains purchased from farmers in the don
 Recipient governments have mostly become ineffective in addressing the needs they ought to, feeling entitled to aid funding and abandoning their responsibility to donors - their “saviours.” In a bid to not bite the hand that feeds them, these recipient governments prioritize the conditions set by their donors, sometimes to the detriment of the concerns of their people. A typical scenario of such unfolded in Ghana where, owing to the growing LGBTQ+ advocacy globally, the majority of Ghanaians voiced their opposition against this advocacy, citing that the advocacy of such contravenes their culture. In 2024, the country’s parliament passed a [Proper Human Sexual Rights and Ghanaian Family Values Bill](https://cdn.modernghana.com/files/722202192224-0h830n4ayt-lgbt-bill.pdf) to ban LGBTQ+ advocacy and its related activities; however, in an interesting turn of events, the president refrained from signing the bill into law perhaps because the [US](https://www.courthousenews.com/us-threatens-to-pull-aid-to-ghana-over-anti-lgbtq-bill/) threatened to cut aid should he do so. Such happenings can break the [relationship](https://journals.sagepub.com/doi/full/10.1177/00020397231160192) between citizens and their government. Aid that hinders governments from upholding their citizenry concerns cannot be progressive and developmental.
 
 Consequently, such aid models often foster a climate of dependency, where recipient countries become reliant on external actors for essential services, making them more likely to be accountable to donors instead of their citizens. The challenge, therefore, lies with recipient governments to find alternative ways to stimulate growth and development without undermining their capacity to chart their own course and build sustainable, self-managed systems.
-
- 
 
 **Looking Beyond Aid**
 
