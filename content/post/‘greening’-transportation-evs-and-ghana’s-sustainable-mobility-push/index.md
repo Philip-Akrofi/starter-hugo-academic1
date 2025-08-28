@@ -1,6 +1,14 @@
 ---
 title: "‘Greening’ Transportation: EVs and Ghana’s Sustainable Mobility Push"
 date: 2025-08-28T10:21:07.135Z
+summary: >-
+  <!--StartFragment-->
+
+
+  In this opinion piece, I share that though Ghana is racing ahead in EV adoption, charging and servicing gaps could slow the momentum.
+
+
+  <!--EndFragment-->
 draft: false
 featured: false
 image:
