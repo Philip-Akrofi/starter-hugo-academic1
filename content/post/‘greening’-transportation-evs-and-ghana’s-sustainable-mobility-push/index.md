@@ -8,13 +8,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -54,9 +54,9 @@ image:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="375">
@@ -633,9 +633,9 @@ image:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ image:
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -671,7 +671,7 @@ The traction Chinese EVs are gaining in Ghana can be partly attributed to the re
 
 Despite the hope-filled future of EV adoption in Ghana, significant challenges are beleaguering its progress. While environmental concerns back the push for EV adoption, it is hardly a priority for the average Ghanaian buyer. Recent research reveals that the most critical considerations for Ghanaians when deciding to buy an EV are [the availability of charging infrastructure and servicing shops](https://www.trade.gov/market-intelligence/ghana-electrical-vehicle-sector). It is these infrastructure concerns that must be met if Ghana’s EV market is to reach its potential.  
 
-The state of EV charging and servicing stations
+**The state of EV charging and servicing stations**
 
 As of late 2023, Ghana had approximately [17,000](https://citinewsroom.com/2023/11/electric-vehicle-policy-in-the-offing-17000-evs-currently-in-ghana-energy-minister/) EVs on the roads, including around [1,000](https://www.the-star.co.ke/news/2024-04-20-the-african-countries-with-the-highest-number-of-evs) four-wheeler electric vehicles. The primary charging source for most EV users is home-installed chargers, supplemented by the limited public charging stations. Despite the government’s plan to establish 1,000 charging stations by 2028, a 2024 UNDP [report](https://www.undp.org/ghana/publications/market-opportunity-study-electric-vehicle-charging-stations-ghana) revealed that Ghana had a meagre total of seven public charging stations, all located in Accra. Recently, [Charge Express](https://chargeexpressltd.com/), a local EV firm, has established a charging station with four additional outlets, also in Accra. Even within the capital, the positioning of these charging stations is not distributed widely enough to put them within easy access for users scattered in Accra’s neighbourhoods. As a result, the main charging source for most EV users is home-installed chargers, which limits the vehicles’ range and therefore utility.  
 
@@ -683,7 +683,7 @@ Currently, Ghana struggles with intermittent electricity supply, particularly ou
 
 The servicing market lags even further behind. EV servicing and maintenance are currently primarily provided by EV dealers to customers who purchase their vehicles. This makes servicing and maintenance expensive and inconvenient because only a few servicing shops have technicians skilled enough to handle some specialised repairs. It also presents a challenge if a car breaks down at the side of the road.
 
-The way forward
+**The way forward**
 
 It is imperative for EV firms to recognise the significant hurdles that charging and servicing pose to their market capture and growth in Ghana. Despite the government’s plan to establish charging stations nationwide, the private sector may be better suited to championing the dissemination of such charging stations. The more Ghanaians encounter public charging and service stations in their daily commutes, the more likely they are to embrace EVs as an alternative to fossil fuel-powered vehicles. It is in the companies’ interests to help this rollout.
 
