@@ -4,7 +4,7 @@ date: 2025-09-08T08:18:17.281Z
 draft: false
 featured: false
 image:
-  filename: slsuc.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
