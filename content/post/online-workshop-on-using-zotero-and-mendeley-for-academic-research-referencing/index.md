@@ -8,4 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Online workshop on using Zotero and Mendeley for academic research referencing
+
+
+![](slsuc.jpg)
