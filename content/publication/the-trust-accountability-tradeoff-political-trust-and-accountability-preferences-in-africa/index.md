@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - admin
-doi: https://www.afrobarometer.org/publication/wp230-the-trust-accountability-tradeoff/
+doi: ""
 publication: Afrobarometer Working Paper
 abstract: >-
   Political trust is commonly regarded as a desirable feature of democratic
@@ -37,7 +37,7 @@ abstract: >-
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: https://www.afrobarometer.org/publication/wp230-the-trust-accountability-tradeoff/
   focal_point: Smart
   preview_only: false
 date: 2026-10-01T11:45:07.338Z
