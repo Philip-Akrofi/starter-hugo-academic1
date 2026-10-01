@@ -27,7 +27,7 @@ abstract: "Military coups have become an increasingly common yet understudied
   mechanisms, calling instead for sustained, targeted reconstruction that
   addresses both dimensions of social capital simultaneously."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
