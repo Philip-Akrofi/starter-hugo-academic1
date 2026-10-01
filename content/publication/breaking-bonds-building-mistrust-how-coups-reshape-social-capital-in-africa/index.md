@@ -1,7 +1,7 @@
 ---
 title: "Breaking bonds, building mistrust: how coups reshape social capital in Africa"
 publication_types:
-  - "0"
+  - "2"
 doi: 10.1016/j.worlddev.2026.107553
 publication: World Development
 abstract: "Military coups have become an increasingly common yet understudied
