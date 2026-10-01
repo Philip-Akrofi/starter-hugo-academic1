@@ -3,9 +3,8 @@ title: "The trust-accountability tradeoff: Political trust and accountability
   preferences in Africa"
 publication_types:
   - "0"
-authors:
-  - admin
-doi: ""
+authors: []
+doi: https://www.afrobarometer.org/publication/wp230-the-trust-accountability-tradeoff/
 publication: Afrobarometer Working Paper
 abstract: >-
   Political trust is commonly regarded as a desirable feature of democratic
