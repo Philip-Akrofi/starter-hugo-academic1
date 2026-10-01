@@ -2,7 +2,7 @@
 title: "The trust-accountability tradeoff: Political trust and accountability
   preferences in Africa"
 publication_types:
-  - "0"
+  - "3"
 authors: []
 doi: ""
 publication: Afrobarometer Working Paper
