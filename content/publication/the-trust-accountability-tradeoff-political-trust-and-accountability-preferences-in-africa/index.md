@@ -34,8 +34,8 @@ abstract: >-
   democratic governance, it is nevertheless associated with lower support for measures that promote
 
   accountability.
-draft: false
-featured: false
+draft: true
+featured: true
 image:
   filename: featured
   focal_point: Smart
